@@ -82,7 +82,7 @@ I needed a **personal backup & organization system** — so I built one.
 - Mobile-first responsive design  
 - Open-source & free to use  
 
-🌐 Live Demo: https://vercel.com/khateeb21s-projects/notion-fullstack-app
+🌐 Live Demo: https://notion-fullstack-app.vercel.app
 
 ---
 
