@@ -122,7 +122,7 @@ A clean, **SEO-focused tour booking website** built to strengthen real-world fun
 #### 🧠 Key Learning
 This project taught me that **strong fundamentals, SEO decisions, and performance tuning** can create real impact — even in simple applications.
 
-🌐 Live Demo:https://www.travelkashmir.travel
+🌐 Live Demo:https://www.travelkashmirelite.com
 
 ---
 
